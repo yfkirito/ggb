@@ -1,0 +1,212 @@
+body{
+    padding-bottom: 1rem;
+}
+.top {
+    width: 7.5rem;
+    height: 1.3rem;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+}
+
+.top .neikuan {
+    width: 7rem;
+    height: 100%;
+    display: flex;
+    line-height: 1.3rem;
+}
+
+.top .neikuan p:nth-child(1) {
+    color: #ff4791;
+    font-size: 0.3rem;
+    margin-right: 0.1rem;
+    font-weight: bold;
+}
+
+.top .neikuan p:nth-child(2) {
+    color: #262626;
+    font-size: 0.33rem;
+}
+
+.icon-down-trangle-copy-copy {
+    font-size: 0.35rem;
+    margin-left: 0.1rem;
+}
+input {
+    width: 3rem;
+    height: 0.7rem;
+    border-radius: 2rem;
+    border: none;
+    margin-left: 0.6rem;
+    margin-top: 0.33rem;
+    padding-left: 0.6rem;
+    background: #f5f5f5;
+    position: relative;
+}
+.icon-icon09 {
+    font-size: 0.5rem;
+    position: absolute;
+    margin-left: 2.77rem;
+}
+
+.icon-saoyisao {
+    font-size: 0.4rem;
+    margin-left: 0.1rem;
+    margin-top: 0.05rem;
+}
+.selle{
+    width: 7.5rem;
+    height: 1rem;
+    display: flex;
+}
+.selle .remai{
+    width: 1.67rem;
+    height: 0.7rem;
+    padding-top: 0.1rem;
+    display: flex;
+    font-size: 0.26rem;
+}
+.selle .remai .sekuai{
+    width: 0.12rem;
+    height: 0.36rem;
+    background: #ff4692;
+    margin-right: 0.36rem;
+}
+.selle .shucai{
+    width: 5.38rem;
+    height: 0.8rem;
+    display: flex;
+    padding-top: 0.1rem;
+    justify-content: center;
+    position: relative;
+    border-bottom: 1px solid #f5f5f5;
+
+}
+.selle .shucai p{
+    font-size: 0.24rem;
+    color: #9b9b9b;
+}
+.icon-down-trangle-copy-copy:nth-child(3){
+    position: absolute;
+    color: #333;
+    margin-left: 6.9rem;
+    margin-top: 0.1rem;
+}
+.style{
+    width: 7.5rem;
+    height: 18.5rem;
+    display: flex;
+    border-bottom: 1px solid #f8f8f8;
+}
+.style .tails{
+    width: 1.66rem;
+    height: 100%;
+    background: #f8f8f8;
+    padding-top: 0.2rem;
+}
+.style .tails p{
+    font-size: 0.26rem;
+    margin-bottom: 0.58rem;
+    text-align: center;
+}
+.style .shuiguo{
+    width: 5.8rem;
+    height: 100%;
+}
+.style .shuiguo .new{
+    width: 5.4rem;
+    height: 0.7rem;
+    margin: 0 auto;
+    font-size: 0.22rem;
+    line-height: 0.7rem;
+    color: #959595;
+    border-bottom: 1px solid #959595; ;
+}
+.style .shuiguo .style{
+    width: 5.32rem;
+    height: 2.56rem;
+    margin: 0 auto;
+    margin-top: 0.2rem;
+}
+.style .shuiguo .style .tu{
+    width: 1.9rem;
+    height: 2.4rem;
+    padding-top: 0.2rem;
+
+}
+.style .shuiguo .style .tu img{
+    width: 1.9rem;
+    height: 1.9rem;
+}
+.style .shuiguo .style .zi{
+    width: 3.5rem;
+    height: 2.4rem;;
+    padding-top: 0.3rem;
+}
+.style .shuiguo .style .zi1{
+    font-size: 0.25rem;
+}
+.style .shuiguo .style .zi2{
+    font-size: 0.25rem;
+    color:#979797;
+}
+.style .shuiguo .style .zi .qian{
+    width: 3.4rem;
+    height: 0.8rem;
+    background: #fff;
+    margin-top: 0.6rem;
+    display: flex;
+    justify-content: space-between;
+}
+.style .shuiguo .style .zi .qian p{
+    font-size: 0.27rem;
+    margin-top: 0.3rem;
+}
+div.xiagud {
+    width: 7.5rem;
+    height: 1.5rem;
+    padding-left: 0.5rem;
+    border-top: 1px solid #c6c6c6;
+    margin-top: 0.3rem;
+    padding-top: 0.3rem;
+    position: fixed;
+    bottom:0;
+    background: #fff;
+}
+
+div.xiagud .neikuan {
+    width: 6.5rem;
+    height: 1.4rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+div.xiagud .neikuan .shouye {
+    width: 1rem;
+    height: 1rem;
+    font-size: 0.24rem;
+    text-align: center;
+
+}
+
+div.xiagud .neikuan .shouye .xuanz1 {
+    color: #f946ad;
+}
+
+.icon-shouye {
+    font-size: 0.55rem;
+
+}
+
+.icon-classify_icon {
+    font-size: 0.55rem;
+    color: #f946ad;
+
+}
+
+.icon-buy-car {
+    font-size: 0.55rem;
+}
+
+.icon-wodedangxuan-copy {
+    font-size: 0.55rem;
+}

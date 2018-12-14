@@ -1,0 +1,81 @@
+/*
+* @Author: HP
+* @Date:   2018-12-14 10:44:00
+* @Last Modified by:   HP
+* @Last Modified time: 2018-12-14 10:52:04
+*/
+header{
+	width: 100%;
+	height: 2.04rem;
+	/* background: green; */
+	position: fixed;
+	margin-bottom: 2rem;
+	background: #fff;
+}
+.ding{
+	width: 100%;
+	height: 1.1rem;
+	/* background: red; */
+	display: flex;
+	padding-top: 0.15rem;
+	padding-left: 0.24rem;
+}
+.ding .zuo{
+	width: 3rem;
+	height: 0.66rem;
+	/* background: blue; */
+	display: flex;
+	position: absolute;
+	left: 0.24rem;
+	top: 0.31rem;
+}
+.ding .zuo img{
+	width: 1.42rem;
+	height: 0.47rem;
+}
+.ding .zuo p{
+	font-size: 0.3rem;
+	line-height: 0.50rem;
+	padding-right: 0.12rem;
+}
+.ding .zuo i{
+	font-size: 0.23rem;
+	line-height: 0.50rem;
+}
+.ding .zhong{
+	width: 3.1rem;
+	height: 0.66rem;
+	background: #f7f5f6;
+	border-radius: 0.33rem;
+	display: flex;
+	position: absolute;
+	left: 3.42rem;
+	height: 0.16rem;
+}
+.ding .zhong i{
+	font-size: 0.3rem;
+	line-height: 0.66rem;
+}
+.ding .zhong input{
+	width: 2.15rem;
+	height: 0.58rem;
+	margin-left: 0.2rem;
+	font-size: 0.3rem;
+	line-height: 0.66rem;
+	border: none;
+	background: #f7f5f6;
+}
+.ding .you{
+	width: 0.47rem;
+	height: 0.47rem;
+	/* background: pink; */
+	display: flex;
+	margin-left: 0.15rem;
+	position: absolute;
+	right: 0.55rem;
+	top: 0.26rem;
+}
+.ding .you i{
+	font-size: 0.46rem;
+
+}

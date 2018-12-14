@@ -1,0 +1,394 @@
+/*
+* @Author: Administrator
+* @Date:   2018-12-05 08:57:00
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-12-07 21:55:34
+*/
+body{
+    padding-bottom: 1rem;
+}
+.top {
+    width: 7.5rem;
+    height: 1.3rem;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+}
+
+.top .neikuan {
+    width: 7rem;
+    height: 100%;
+    display: flex;
+    line-height: 1.3rem;
+}
+
+.top .neikuan p:nth-child(1) {
+    color: #ff4791;
+    font-size: 0.3rem;
+    margin-right: 0.1rem;
+    font-weight: bold;
+}
+
+.top .neikuan p:nth-child(2) {
+    color: #262626;
+    font-size: 0.33rem;
+}
+
+.icon-down-trangle-copy-copy {
+    font-size: 0.35rem;
+    margin-left: 0.1rem;
+}
+
+input {
+    width: 3rem;
+    height: 0.7rem;
+    border-radius: 2rem;
+    border: none;
+    margin-left: 0.6rem;
+    margin-top: 0.33rem;
+    padding-left: 0.6rem;
+    background: #f5f5f5;
+    position: relative;
+}
+
+.icon-icon09 {
+    font-size: 0.5rem;
+    position: absolute;
+    margin-left: 2.77rem;
+}
+
+.icon-saoyisao {
+    font-size: 0.4rem;
+    margin-left: 0.1rem;
+    margin-top: 0.05rem;
+}
+
+.day {
+    width: 7.5rem;
+    height: 1.1rem;
+    padding-left: 0.24rem;
+}
+
+.day .neikuan {
+    width: 7rem;
+    height: 100%;
+}
+
+.day .neikuan .dairy {
+    width: 100%;
+    height: 0.63rem;
+    display: flex;
+}
+
+.day .neikuan .dairy h6 {
+    font-size: 0.4rem;
+}
+
+.day .neikuan .dairy p {
+    font-size: 0.35rem;
+    margin-left: 0.35rem;
+    line-height: 0.63rem;
+}
+
+.day .neikuan .dairy img {
+    width: 0.4rem;
+    height: 0.5rem;
+    margin-left: 0.09rem;
+    margin-top: 0.08rem;
+}
+
+.day .neikuan .acks {
+    width: 100%;
+    height: 0.37rem;
+    margin-top: 0.08rem;
+}
+
+.day .neikuan .acks .sekuai {
+    width: 0.45rem;
+    height: 0.11rem;
+    border-radius: 0.3rem;
+    background: #ff4891;
+    margin-left: 0.2rem;
+}
+
+.fresh {
+    width: 7.5rem;
+    height: 0.55rem;
+    margin-top: 0.2rem;
+}
+
+.fresh .neikuan {
+    width: 5.8rem;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.fresh .neikuan .dian {
+    width: 1.5rem;
+    height: 0.4rem;
+    font-size: 0.3rem;
+    display: flex;
+    margin-right: 0.3rem;
+    color: #a4a4a4;
+}
+
+.fresh .neikuan .dian .dian1 {
+    width: 0.2rem;
+    height: 0.2rem;
+    background: #e6e6e6;
+    border-radius: 50%;
+    margin-top: 0.1rem;
+    margin-right: 0.05rem;
+}
+
+.mber {
+    width: 7.5rem;
+    height: 2rem;
+    margin-top: 0.3rem;
+}
+
+.mber .neikuan {
+    width: 100%;
+    height: 1.5rem;
+    margin: 0 auto;
+    display: flex;
+    padding-top: 0.15rem;
+}
+
+.mber .neikuan .zshu {
+    width: 1.2rem;
+    height: 1.2rem;
+    background: #eac67e;
+    border-radius: 50%;
+    margin-left: 0.5rem;
+    line-height: 0.8rem;
+}
+
+.mber .mem {
+    width: 100%;
+    height: 0.35rem;
+    display: flex;
+}
+
+.icon-shouchiPOStubiaoku_huabanfuben {
+    font-size: 0.5rem;
+    margin-left: 0.35rem;
+}
+
+.icon-creditcard {
+    font-size: 0.5rem;
+    margin-left: 0.35rem;
+}
+
+.icon-my-shangxin {
+    font-size: 0.5rem;
+    margin-left: 0.35rem;
+}
+
+.icon-qiandao {
+    font-size: 0.5rem;
+    margin-left: 0.35rem;
+}
+
+.mber .mem p {
+    font-size: 0.28rem;
+    margin-left: 0.5rem;
+}
+
+.ment {
+    width: 7.5rem;
+    height: 3rem;
+    margin-top: 0.3rem;
+}
+
+.ment .neikuan {
+    width: 6.98rem;
+    height: 2.8rem;
+    margin: 0 auto;
+    border-bottom: 1px solid #eee;
+    display: flex;
+}
+
+.ment .neikuan .tu1 {
+    width: 3.4rem;
+    height: 2.1rem;
+    margin-right: 0.08rem;
+}
+
+.ment .neikuan .tu1 img {
+    width: 3.4rem;
+    height: 2.1rem;
+}
+
+.type {
+    width: 7.5rem;
+    height: 4rem;
+    padding-left: 0.34rem;
+}
+
+.type .neikuan {
+    width: 6.8rem;
+    height: 3.5rem;
+}
+
+.type .neikuan .zhl {
+    width: 100%;
+    height: 1.8rem;
+    display: flex;
+}
+
+.type .neikuan .zhl .baihuo {
+    width: 1rem;
+    height: 1.6rem;
+    margin-left: 0.3rem;
+}
+
+.type .neikuan .zhl .baihuo img {
+    width: 1rem;
+    height: 1rem;
+}
+
+.type .neikuan .zhl .baihuo p {
+    font-size: 0.25rem;
+    text-align: center;
+}
+
+.frui {
+    width: 7.5rem;
+    height: 3.1rem;
+}
+
+.frui img {
+    width: 100%;
+    height: 100%;
+}
+
+.stylee {
+    width: 7.5rem;
+    height: 4.5rem;
+    padding-left: 0.1rem;
+}
+
+.stylee .neikuan {
+    width: 7.3rem;
+    height: 4rem;
+    display: flex;
+    border-bottom: 1px solid #eee;
+
+}
+
+.stylee .neikuan .ssue {
+    width: 2.2rem;
+    height: 3.9rem;
+    margin-left: 0.1rem;
+}
+
+.stylee .neikuan .ssuezi {
+    width: 4.5rem;
+    height: 3.4rem;
+    margin-left: 0.2rem;
+}
+
+.stylee .neikuan .ssue img {
+    width: 2.1rem;
+    height: 2.5rem;
+}
+
+.stylee .neikuan .ssuezi .zi1 {
+    width: 4.4rem;
+    height: 1.1rem;
+    font-size: 0.4rem;
+}
+
+.stylee .neikuan .ssuezi .zi1 p {
+    font-size: 0.2rem;
+    color: #959595;
+}
+
+.stylee .neikuan .ssuezi .zi {
+    width: 4.5rem;
+    height: 1rem;
+    display: flex;
+}
+
+.stylee .neikuan .ssuezi .zi2 {
+    width: 4.9rem;
+    height: 0.21rem;
+    font-size: 0.2rem;
+    margin-bottom: 0.2rem;
+}
+
+.stylee .neikuan .ssuezi .zi3 {
+    width: 2rem;
+    height: 0.5rem;
+    position: relative;
+}
+
+.stylee .neikuan .ssuezi .zi3 p {
+    font-size: 0.25rem;
+    color: #ff4891;
+}
+
+.stylee .neikuan .ssuezi .zi3 p img {
+    width: 0.9rem;
+    height: 0.35rem;
+    margin: -0.02rem;
+}
+
+.icon-gouwuche1-copy-copy {
+    margin-left: 3.5rem;
+    position: absolute;
+    margin-top: -0.5rem;
+    font-size: 0.4rem;
+    color: #ff4891;
+}
+
+div.xiagud {
+    width: 7.5rem;
+    height: 1.5rem;
+    padding-left: 0.5rem;
+    border-top: 1px solid #c6c6c6;
+    margin-top: 0.3rem;
+    padding-top: 0.3rem;
+    position: fixed;
+    bottom:0;
+    background: #fff;
+}
+
+div.xiagud .neikuan {
+    width: 6.5rem;
+    height: 1.4rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+div.xiagud .neikuan .shouye {
+    width: 1rem;
+    height: 1rem;
+    font-size: 0.24rem;
+    text-align: center;
+
+}
+
+div.xiagud .neikuan .shouye .xuanz {
+    color: #f946ad;
+}
+
+.icon-shouye {
+    font-size: 0.55rem;
+    color: #f946ad;
+
+}
+
+.icon-classify_icon {
+    font-size: 0.55rem;
+}
+
+.icon-buy-car {
+    font-size: 0.55rem;
+}
+
+.icon-wodedangxuan-copy {
+    font-size: 0.55rem;
+}

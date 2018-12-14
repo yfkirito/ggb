@@ -1,0 +1,23 @@
+.top{
+    width: 7.5rem;
+    height: 1rem;
+    background: #f946ad;
+}
+.top .neikuan{
+    width: 7rem;
+    height: 100%;
+    background: #eac67e;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0.3rem;
+}
+.top .neikuan p{
+    font-size: 0.3rem;
+}
+.icon-icon-test{
+    font-size: 0.4rem;
+}
+.icon-iconfontfenxiang{
+    font-size: 0.4rem;
+}

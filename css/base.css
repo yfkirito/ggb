@@ -1,0 +1,19 @@
+/*
+* @Author: hp
+* @Date:   2018-11-07 11:29:03
+* @Last Modified by:   hp
+* @Last Modified time: 2018-11-07 12:07:50
+*/
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	box-sizing: border-box;
+}
+a{
+	text-decoration: none;
+	color: #333;
+}
+i{
+	font-style: normal;
+}
